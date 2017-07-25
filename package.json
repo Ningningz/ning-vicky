@@ -1,0 +1,19 @@
+{
+  "name": "vicky-npm",
+  "version": "1.0.2",
+  "description": "打印值",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vicky",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git"
+  }
+}
